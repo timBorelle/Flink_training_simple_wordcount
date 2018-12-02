@@ -15,7 +15,7 @@
   		<artifactId>flink-streaming-java_2.11</artifactId>
   		<version>1.5.0</version>
 	</dependency>
-	<dependency>
+	<dependency>	
   		<groupId>org.apache.flink</groupId>
   		<artifactId>flink-clients_2.11</artifactId>
   		<version>1.5.0</version>
